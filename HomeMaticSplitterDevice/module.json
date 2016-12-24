@@ -9,7 +9,7 @@
  	], 
  	"parentRequirements": 
 	[ 
-		{62287761-A688-4952-811B-03CBB8767A6A}
+		"{62287761-A688-4952-811B-03CBB8767A6A}"
 	], 
  	"childRequirements": [  ], 
  	"implemented": 
