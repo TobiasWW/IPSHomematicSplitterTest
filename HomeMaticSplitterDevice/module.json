@@ -1,0 +1,20 @@
+{ 
+ 	"id": "{3D8090CF-2D75-4227-96D0-2730BC8AF3B6}", 
+ 	"name": "HomeMaticSplitterDevice" ,
+ 	"type": 3, 
+ 	"vendor": "Tobias WW - HomeMatic Splitter Test", 
+ 	"aliases":  
+ 	[ 
+ 		"HomeMatic Splitter Device" 
+ 	], 
+ 	"parentRequirements": 
+	[ 
+		{62287761-A688-4952-811B-03CBB8767A6A}
+	], 
+ 	"childRequirements": [  ], 
+ 	"implemented": 
+	[ 
+		"{2B26E867-7B89-44B2-9DA9-6D40D91AA37A}"
+	], 
+ 	"prefix": "HMSplitterDevice"
+}
